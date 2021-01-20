@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/iot-dev/Documents/Rust_prac/stm_dac_prac/target/rls/debug/build/cortex-m-rt-9411fda27dcfdb53/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in

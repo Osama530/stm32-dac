@@ -1,0 +1,1 @@
+/home/iot-dev/Documents/Rust_prac/stm_dac_prac/target/thumbv7em-none-eabihf/debug/stm_dac_prac: /home/iot-dev/Documents/Rust_prac/stm_dac_prac/build.rs /home/iot-dev/Documents/Rust_prac/stm_dac_prac/memory.x /home/iot-dev/Documents/Rust_prac/stm_dac_prac/src/main.rs memory.x

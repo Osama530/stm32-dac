@@ -1,0 +1,10 @@
+/home/iot_dev/Documents/Rust_prac/stm_dac_prac/target/rls/thumbv7em-none-eabihf/debug/deps/cortex_m_semihosting-7330adcfc3955452.rmeta: /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/lib.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/macros.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/debug.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/export.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/hio.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/nr.rs
+
+/home/iot_dev/Documents/Rust_prac/stm_dac_prac/target/rls/thumbv7em-none-eabihf/debug/deps/cortex_m_semihosting-7330adcfc3955452.d: /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/lib.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/macros.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/debug.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/export.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/hio.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/nr.rs
+
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/lib.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/macros.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/debug.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/export.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/hio.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-semihosting-0.3.5/src/nr.rs:
